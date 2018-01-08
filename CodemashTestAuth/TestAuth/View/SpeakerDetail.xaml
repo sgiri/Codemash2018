@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestAuth.View.SpeakerDetail">
+    <StackLayout BackgroundColor="#545a60">
+        <!--<Label x:Name="lblHeader"></Label>-->
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Speaker:" TextColor="White"></Label>
+            <Label x:Name="lblSpeaker" TextColor="#f89406"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="GravatarUrl:" TextColor="White"></Label>
+            <Label x:Name="lblGravatarUrl" TextColor="#f89406"></Label>
+        </StackLayout >
+        <StackLayout Orientation="Horizontal">
+            <Label Text="TwitterLink:" TextColor="White"></Label>
+            <Label x:Name="lblTwitterLink" TextColor="#f89406"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="GitHubLink:" TextColor="White"></Label>
+            <Label x:Name="lblGitHubLink" TextColor="#f89406"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="LinkedInProfile:" TextColor="White"></Label>
+            <Label x:Name="lblLinkedInProfile" TextColor="#f89406"></Label>
+        </StackLayout>
+        <Label x:Name="lblBiography" TextColor="#f89406"></Label>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,25 @@
+﻿[{
+	"Id": "54895963-ee67-4f10-8658-5e360babf83b",
+	"FirstName": "Doug",
+	"LastName": "Mair",
+	"Biography": "Doug is a Principal Consultant at Improving Enterprises in Columbus Ohio.  He started developing software as a high school freshman on a TRS-80 16K.  He loved programming so much that he decided to get a BSCIS from Ohio State University.  Since then he has developed software for Graphics Kiosks, Rules Engines, Specialized Hardware and ASP.Net websites.  Over the last several years, he has helped grow the Windows Developer Community in Central Ohio.  He spends his free time developing Windows applications and Unity games.",
+	"GravatarUrl": "//www.gravatar.com/avatar/574559cb74e566feace8fd4e0525451c",
+	"TwitterLink": "https://twitter.com/doug_mair",
+	"GitHubLink": "",
+	"LinkedInProfile": "https://www.linkedin.com/in/dougmair",
+	"BlogUrl": null,
+	"SessionIds" : ["1"]
+}, 
+{
+	"Id": "7bc17d4d-7ae9-434b-8f13-057275af9d31",
+	"FirstName": "Mike",
+	"LastName": "Geig",
+	"Biography": "Mike Geig is an Evangelist for Unity Technologies where he develops and delivers recorded, live, and onsite learning content. He has experience as an indie game dev, a university educator, and rumor has it that he also wrote a book called \"Unity Game Development in 24 Hours\". A gamer at heart, Mike works to make game development fun and accessible for all skill sets. Hi, Mom!",
+	"GravatarUrl": "//www.gravatar.com/avatar/06f061d2cbaf2e26aefb0a38aadea769",
+	"TwitterLink": "https://twitter.com/mikegeig",
+	"GitHubLink": "https://github.com/mikegeig",
+	"LinkedInProfile": "https://www.linkedin.com/in/mikegeig",
+	"BlogUrl": "http://fixbyproximity.com/",
+	"SessionIds" : ["2", "5724"]
+}
+]

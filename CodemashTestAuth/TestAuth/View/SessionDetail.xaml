@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestAuth.View.SessionDetail">
+    <StackLayout BackgroundColor="#545a60">
+        <!--<Label x:Name="lblHeader"></Label>-->
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Speaker:" TextColor="White"></Label>
+            <Label x:Name="lblSpeaker" TextColor="#f89406" Focused="LblSpeaker_OnFocused"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Technology:" TextColor="White"></Label>
+            <Label x:Name="lblTechnology" TextColor="#f89406"></Label>
+        </StackLayout >
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Difficulty:" TextColor="White"></Label>
+            <Label x:Name="lblSessionType" TextColor="#f89406"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Date/Time:" TextColor="White"></Label>
+            <Label x:Name="lblDateTime" TextColor="#f89406"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Room:" TextColor="White"></Label>
+            <Label x:Name="lblRoom" TextColor="#f89406"></Label>
+        </StackLayout>
+        <Label x:Name="lblDescription" TextColor="#f89406"></Label>
+    </StackLayout>
+</ContentPage>

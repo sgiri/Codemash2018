@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CodeMash"
+             x:Class="TestAuth.View.MainPage">
+
+    <StackLayout>
+        <!--<Image 
+            Source="twitter.png"
+            Aspect="AspectFit"
+            WidthRequest="50"
+            HeightRequest="50"         
+        />-->
+
+        <ListView x:Name="lvMain"    HasUnevenRows="True" ItemsSource="{Binding MainItems}" ItemSelected="LvMain_OnItemSelected" >
+            <ListView.ItemTemplate >
+                <DataTemplate>
+                    <ViewCell>
+                        <ContentView>
+                            <StackLayout
+                                Padding="20">
+                                <Label
+                                        Text="{Binding Display}"
+                                        TextColor="#f89406"
+                                        FontSize="20"
+                                        FontAttributes="Bold" />
+                            </StackLayout>
+                        </ContentView>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

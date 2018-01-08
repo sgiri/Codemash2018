@@ -1,0 +1,27 @@
+Function=xamarin_timezone_get_data
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=CloseZStream
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=Flush
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=ReadZStream
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=WriteZStream
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/Suganthi/Tech/Source/CodeMashPCL/CodeMashPCL/CodeMash/CodeMash.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+Function=mono_pmip

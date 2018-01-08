@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D4AFDB96-B559-41B4-93D1-33E598E0A477}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirebaseAuthQuickstart/GoogleSignInActivity.cs">
+    <Files>
+      <File FileName="../../../../iOS/Info.plist" />
+      <File FileName="../../../../iOS/Entitlements.plist" />
+      <File FileName="../../../../iOS/GoogleSignInViewController.cs" Line="15" Column="2" />
+      <File FileName="../../../../iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="FirebaseAuthQuickstart/google-services.json" Line="50" Column="2" />
+      <File FileName="FirebaseAuthQuickstart/GoogleSignInActivity.cs" Line="82" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirebaseAuthQuickstart" expanded="True" />
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Suganthi/Tech/Source/TestAuth/iOS/GoogleSignInViewController.cs" line="124" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FirebaseAuthQuickstart PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>

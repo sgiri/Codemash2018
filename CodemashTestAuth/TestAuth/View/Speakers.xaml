@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestAuth.View.Speakers">
+    <ListView x:Name="lvSpeakers" RowHeight="110" BackgroundColor="#545a60"  ItemSelected="lvSpeakers_OnItemSelected">
+        <ListView.ItemTemplate >
+            <DataTemplate>
+                <ViewCell>
+                    <ViewCell.View>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <StackLayout  Orientation="Vertical">
+                                <Label Text = "{Binding FirstName}" FontSize="12"  />
+                                <Label Text = "{Binding LastName}" TextColor="White" FontSize="16"  />
+                                <Label Text = "{Binding GravatarUrl}" TextColor="White" FontSize="16"  />
+                            </StackLayout>
+                        </Grid>
+                    </ViewCell.View>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

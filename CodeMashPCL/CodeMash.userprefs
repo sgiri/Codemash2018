@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{BE39280C-60FF-4CCC-9367-967773747936}|Default">
+  <MonoDevelop.Ide.ItemProperties.CodeMash.Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeMash/CodeMash/View/SessionsList.xaml.cs">
+    <Files>
+      <File FileName="../../TestAuth/TestAuth/View/MainPage.xaml.cs" Line="103" Column="1" />
+      <File FileName="../../TestAuth/Droid/LoginRenderer.cs" Line="79" Column="1" />
+      <File FileName="../../TestAuth/Droid/MainActivity.cs" Line="10" Column="20" />
+      <File FileName="CodeMash/CodeMash/View/SessionsList.xaml.cs" Line="48" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Suganthi/Tech/Source/TestAuth/Droid/LoginRenderer.cs" line="53" column="1" />
+      <Breakpoint file="/Users/Suganthi/Tech/Source/TestAuth/Droid/LoginRenderer.cs" line="31" column="1" />
+      <Breakpoint file="/Users/Suganthi/Tech/Source/TestAuth/Droid/LoginRenderer.cs" line="69" column="1" />
+      <Breakpoint file="/Users/Suganthi/Tech/Source/TestAuth/Droid/LoginRenderer.cs" line="91" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CodeMash.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B29209A3-37D5-4B53-8D7C-F6CD920810E7" />
+</Properties>

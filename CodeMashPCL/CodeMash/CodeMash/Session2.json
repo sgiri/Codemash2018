@@ -1,0 +1,148 @@
+﻿[
+  {
+    "Id": 1,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2017-01-10T08:00:00",
+    "SessionEndTime": "2017-01-10T12:00:00",
+    "Room": null,
+    "Rooms": [ "Orange" ],
+    "Title": "Bring your Big Data to life using JavaScript and a browser using D3.js",
+    "Abstract": "In this session, we will see how to use JavaScript frameworks to bring your big data sets to life in the browser.  We'll first walk through the very basics of chart creation using D3, then using a dataset of meteorite strikes on the earth, we will build data visualizations and dashboards to track the meteorite strikes.  We will use HTML, CSS, SVG, D3.js and DC.js to build the dashboard.  \r\n \r\nWe will then move into using the Cross Filter JavaScript library, to add cross-chart interactivity and let the users explore the data in ways that we may not have anticipated.  Lastly, we will use the latest version of D3.js (V4) and build even more complex visualizations and interactions.\r\n \r\nJust bring a laptop with a Chrome browser to participate.  All of the technology will be presented using open source frameworks with strong community support.   ",
+    "SessionType": "Pre-Compiler",
+    "Tags": [ "Design (UI/UX/CSS)", "JavaScript", "Cloud/Big Data" ],
+    "Category": "Data (big/small/otherwise)",
+    "Speakers": [
+      {
+        "Id": "54895963-ee67-4f10-8658-5e360babf83b",
+        "FirstName": "Doug",
+        "LastName": "Mair",
+        "GravatarUrl": "//www.gravatar.com/avatar/574559cb74e566feace8fd4e0525451c"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "SessionStartTime": "2018-01-10T08:00:00",
+    "SessionEndTime": "2018-01-10T12:00:00",
+    "Room": null,
+    "Rooms": [ "Cypress" ],
+    "Title": "Game Development with the Unity Game Engine",
+    "Abstract": "You want to make video games with the Unity game engine? Let’s make video games with the Unity game engine! In this session attendees will build a simple video game from start to finish. Covered is a hands on approach to the construction of game systems from assets. Audience members won’t be watching, they’ll be doing. The end product will be a complete video game playable on desktop, web, or mobile devices. This is all new content showing you how to use the latest features of the engine. Even if you attended last year there will still be plenty of new things to learn!",
+    "SessionType": "Pre-Compiler",
+    "Tags": [ "Other" ],
+    "Category": "Architecture",
+    "Speakers": [
+      {
+        "Id": "7bc17d4d-7ae9-434b-8f13-057275af9d31",
+        "FirstName": "Mike",
+        "LastName": "Geig",
+        "GravatarUrl": "//www.gravatar.com/avatar/06f061d2cbaf2e26aefb0a38aadea769"
+      }
+    ]
+  },
+  {
+    "Id": 5724,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2017-01-12T09:15:00",
+    "SessionEndTime": "2017-01-12T10:15:00",
+    "Room": null,
+    "Rooms": [ "Guava", "Tamarind" ],
+    "Title": "Problem solving recipes learned from supporting Spark",
+    "Abstract": "Due to Spark, writing big data applications has never been easierÖat least until they stop being easy! At Lightbend weíve helped our customers out of a number of hidden Spark pitfalls. Some crop up often; the ever-persistent OutOfMemoryError, the confusing NoSuchMethodError, shuffle and partition management, etc. Others occur less frequently; an obscure configuration affecting SQL broadcasts, struggles with speculating, a failing stream recovery due to RDD joins, S3 file reading leading to hangs, etc. All are intriguing! In this session we will provide insights into their origins and show how you can avoid making the same mistakes. Whether you are a seasoned Spark developer or a novice, you should learn some new tips and tricks that could save you hours or even days of debugging.",
+    "SessionType": "General Session",
+    "Tags": [ "Cloud/Big Data" ],
+    "Category": "Data (big/small/otherwise)",
+    "Speakers": [
+      {
+        "Id": "6f679f83-990f-4f9a-9c2c-7daf866915d6",
+        "FirstName": "Justin",
+        "LastName": "Pihony",
+        "GravatarUrl": "//www.gravatar.com/avatar/2ee8ffcc3449741a2f296a9ff9ce6968"
+      }
+    ]
+  },
+  {
+    "Id": 5428,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2017-01-12T09:15:00",
+    "SessionEndTime": "2017-01-12T10:15:00",
+    "Room": null,
+    "Rooms": [ "Sagewood", "Zebrawood" ],
+    "Title": "Taming the JavaScript Dragon with TypeScript",
+    "Abstract": "From humble beginnings, JavaScript has gone from a hastily thrown together language for web pages to a hastily thrown together language that runs everywhere. If you can do it with code, you can probably do it in JavaScript. It's the Swiss Army Knife of programming languages.\r\n\r\nUnfortunately, JavaScript wasn't designed for the large scale programs we use it in today. We've had to rely on design patterns, willpower, and luck to mitigate JavaScript's failings. However, there is a better way. TypeScript adds features to JavaScript that make it usable on large scale projects. In this talk, we'll explore TypeScript and how it can be used to tame large scale JavaScript projects. We'll cover some of the important features of TypeScript and how to get started using it in your own projects. After this talk, you'll be ready to slay the JavaScript Dragon. ",
+    "SessionType": "General Session",
+    "Tags": [ "JavaScript" ],
+    "Category": "Web/Front-End",
+    "Speakers": [
+      {
+        "Id": "0b4f5d9b-9751-46f1-b1b5-cfff8b984eb1",
+        "FirstName": "Dustin",
+        "LastName": "Ewers",
+        "GravatarUrl": "//www.gravatar.com/avatar/6b60b18cf3e765f76e6ef453d00c8d76"
+      }
+    ]
+  },
+  {
+    "Id": 6066,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2017-01-12T09:15:00",
+    "SessionEndTime": "2017-01-12T10:15:00",
+    "Room": null,
+    "Rooms": [ "Aloeswood", "Leopardwood" ],
+    "Title": "The Whole World is Burning: Here is your bucket of water",
+    "Abstract": "Information Security is a galvanizing term. It carries much power, and therefore, much responsibility. It can be hard to obtain buy-in for long term security needs from Management. And with all the vulerabilities cropping up every day, the pressure to \"be secure\" can be overwhelming. How can a lone developer make a difference?\r\n\r\nThis talk is all about the second half of its title. Common security concerns will be reviewed, then addressed with a focus on what can  be done when faced with them or how to avoid them in the first place.\r\n\r\nThe whole world is burning. But you can make a difference. Here is your bucket of water.",
+    "SessionType": "General Session",
+    "Tags": [ "Security", "Other" ],
+    "Category": "Security",
+    "Speakers": [
+      {
+        "Id": "0cdf3ec0-2664-41a9-8b88-d9a1f8f6112e",
+        "FirstName": "Charles",
+        "LastName": "Yost",
+        "GravatarUrl": "//www.gravatar.com/avatar/b12decc85b3824f40d871138d9f3d9c4"
+      }
+    ]
+  },
+  {
+    "Id": 5799,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2017-01-10T09:00:00",
+    "SessionEndTime": "2017-01-10T10:00:00",
+    "Room": null,
+    "Rooms": [ "Acacia - Sessionz" ],
+    "Title": "Lego Bucket Race",
+    "Abstract": "Kids will learn about databases, sorting, and indexing in an interactive session. They will put Lego \r\ninto buckets as fast as they can. They will use different methods to see how Lego can be stored efficiently, retrieved efficiently, and the implicit tradeoffs. No software or computers will be required.",
+    "SessionType": "Kidz Mash",
+    "Tags": [ "Other" ],
+    "Category": "Data (big/small/otherwise)",
+    "Speakers": [
+      {
+        "Id": "9427eb51-8f41-40cb-a9b1-37ca192003b9",
+        "FirstName": "Matthew",
+        "LastName": "Groves",
+        "GravatarUrl": "//www.gravatar.com/avatar/4b0eb78ea5852ee0f54bfd6a2252c99e"
+      }
+    ]
+  },
+  {
+    "Id": 5818,
+    "SessionTime": "0001-01-01T00:00:00",
+    "SessionStartTime": "2017-01-10T10:30:00",
+    "SessionEndTime": "2017-01-10T11:30:00",
+    "Room": null,
+    "Rooms": [ "Acacia - Sessionz" ],
+    "Title": "Creating a Mobile Game",
+    "Abstract": "Have you ever wondered how Angry Birds or Pokemon Go was created? Have you ever thought \"I have a good idea too!\"? Let's have fun exploring what it takes to build a mobile app, from ideation, to design, then to development. You'll have an opportunity to invent and color your own mobile game! Choose between an iOS or Android device and create away. Supplies will be provided.",
+    "SessionType": "Kidz Mash",
+    "Tags": [ "Design (UI/UX/CSS)", "Mobile" ],
+    "Category": "Mobile",
+    "Speakers": [
+      {
+        "Id": "0b5ab315-3912-45c1-83bc-48f59515e66f",
+        "FirstName": "Kim",
+        "LastName": "Arnett",
+        "GravatarUrl": "//www.gravatar.com/avatar/b75a6021716a4dadf2edce7d882e4796"
+      }
+    ]
+  }
+]
